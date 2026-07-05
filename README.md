@@ -9,4 +9,4 @@ El objetivo de este proyecto práctico fue resolver las discrepancias y el ruido
 * **Procesamiento de Señal:** Desarrollo en C++ de un filtro digital de media móvil con validación por error relativo.
 * **Tolerancia al Ruido:** El algoritmo descarta variaciones anómalas que superen un 15% de desviación respecto a la media, eliminando eficazmente los picos parásitos ambientales o del conversor ADC sin perder latencia en la lectura.
 
-Este trabajo previo fundamenta la base técnica para el desarrollo de algoritmos de detección de anomalías e integridad de bioseñales directamente en el nodo de adquisición.
+Este trabajo previo aporta la base para diseñar algoritmos que identifiquen datos falsos o anomalías médicas en el mismo dispositivo de medición.
